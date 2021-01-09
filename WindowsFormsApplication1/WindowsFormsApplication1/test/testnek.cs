@@ -8,5 +8,6 @@ namespace WindowsFormsApplication1.test
 {
     class testnek
     {
+        public string test{get;set;}
     }
 }
